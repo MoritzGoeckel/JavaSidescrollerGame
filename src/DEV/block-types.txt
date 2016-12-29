@@ -1,0 +1,38 @@
+1	bord	Border
+
+2	soli	Solid
+
+3	brea	Breakable
+
+4	spaw	Spawn
+
+5	dyna	Verschieb- u. Schwerkraft
+
+6	dyng	Verschieb- aber keine schwerkraft
+
+7	bloc	Stopper fur die dyna- und dyng- Blocks
+
+8	bu_b	Button fur dyna- und dyng- Blocks
+
+9	butt	Buttons
+
+10	puUp	Pusher Up
+
+11	PuDo	Push Down
+
+12	puRi	Push Right
+
+13	puLe	Push left
+
+14	doo2	Door oben (Level win)
+
+15	doo1	Door unten (Level win)
+
+16	fire	Todlicher Block
+
+17	pvic	Player Visible Change
+
+18	pvin	Player Visible Not
+
+19	pviy	Player Visible Yes
+20	tTU1	Textblock... Syntax: t[file][zeile]

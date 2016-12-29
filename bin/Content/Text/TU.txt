@@ -1,0 +1,4 @@
+Laufen: Pfeiltasten
+Springen: Pfeiltaste Oben
+Schieben: Strg + Pfeiltaste
+Neu: Esc

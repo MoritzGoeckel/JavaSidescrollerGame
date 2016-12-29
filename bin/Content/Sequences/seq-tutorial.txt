@@ -1,0 +1,12 @@
+Name: Tutorial
+Autor: Anon
+LevelFile: /home/moritz/Arbeitsfläche/Projekte/Game_2/src/Game/Tutorial/map-1-jump.txt
+LevelFile: /home/moritz/Arbeitsfläche/Projekte/Game_2/src/Game/Tutorial/map-2-buttons.txt
+LevelFile: /home/moritz/Arbeitsfläche/Projekte/Game_2/src/Game/Tutorial/map-3-pushup1.txt
+LevelFile: /home/moritz/Arbeitsfläche/Projekte/Game_2/src/Game/Tutorial/map-4-pushup2.txt
+LevelFile: /home/moritz/Arbeitsfläche/Projekte/Game_2/src/Game/Tutorial/map-5-breakable.txt
+LevelFile: /home/moritz/Arbeitsfläche/Projekte/Game_2/src/Game/Tutorial/map-6-dyna1.txt
+LevelFile: /home/moritz/Arbeitsfläche/Projekte/Game_2/src/Game/Tutorial/map-7-dyna2.txt
+LevelFile: /home/moritz/Arbeitsfläche/Projekte/Game_2/src/Game/Tutorial/map-8-fire.txt
+LevelFile: /home/moritz/Arbeitsfläche/Projekte/Game_2/src/Game/Tutorial/map-9-Pusher.txt
+LevelFile: /home/moritz/Arbeitsfläche/Projekte/Game_2/src/Game/Tutorial/map-10-invisible.txt

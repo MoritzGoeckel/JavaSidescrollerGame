@@ -1,0 +1,31 @@
+Name: Alle Maps
+Autor: Anonym
+
+LevelFile: Maps/Tutorial/map-1-jump.txt
+LevelFile: Maps/Tutorial/map-2-buttons.txt
+LevelFile: Maps/Tutorial/map-3-pushup1.txt
+LevelFile: Maps/Tutorial/map-4-pushup2.txt
+LevelFile: Maps/Tutorial/map-5-breakable.txt
+LevelFile: Maps/Tutorial/map-6-dyna1.txt
+LevelFile: Maps/Tutorial/map-7-dyna2.txt
+LevelFile: Maps/Tutorial/map-8-fire.txt
+LevelFile: Maps/Tutorial/map-9-Pusher.txt
+LevelFile: Maps/Tutorial/map-10-invisible.txt
+
+LevelFile: Maps/Leicht/map-1-small.txt
+
+LevelFile: Maps/Fortgeschritten/map-1-raetsel.txt
+LevelFile: Maps/Fortgeschritten/map-2-klein.txt
+LevelFile: Maps/Fortgeschritten/map-3-break.txt
+LevelFile: Maps/Fortgeschritten/map-4-dreher_gross.txt
+LevelFile: Maps/Fortgeschritten/map-5-sprung.txt
+LevelFile: Maps/Fortgeschritten/map-6-raetsel.txt
+LevelFile: Maps/Fortgeschritten/map-7-raetsel.txt
+LevelFile: Maps/Fortgeschritten/map-8-stairs.txt
+LevelFile: Maps/Fortgeschritten/map-9-kompliziert.txt
+LevelFile: Maps/Fortgeschritten/map-10-schornstein.txt
+LevelFile: Maps/Fortgeschritten/map-11-hanna.txt
+LevelFile: Maps/Fortgeschritten/map-12-invi.txt
+LevelFile: Maps/Fortgeschritten/map-13-lang.txt
+
+LevelFile: Maps/Ende/map-1-credits.txt

@@ -1,0 +1,22 @@
+Jump - Tutorial
+Moritz, David
+Textures/Farbig/
+bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord
+bord-    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-    -spaw-    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-    -tTU0-    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-    -    -    -    -tTU1-    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-soli-soli-soli-soli-soli-    -soli-soli-    -    -soli-soli-    -    -    -    -    -    -    -    -    -bord
+bord-soli-soli-soli-soli-soli-    -    -    -    -    -    -    -    -    -    -soli-soli-    -    -    -    -bord
+bord-soli-soli-soli-soli-soli-    -    -    -    -    -    -    -    -    -    -soli-    -    -    -    -    -bord
+bord-soli-soli-soli-soli-soli-    -    -    -    -    -    -fire-fire-fire-fire-soli-    -    -    -    -    -bord
+bord-soli-soli-soli-soli-soli-    -    -    -    -    -    -soli-soli-soli-soli-soli-    -    -    -    -    -bord
+bord-soli-soli-soli-soli-soli-    -    -    -    -    -    -soli-    -    -    -    -    -    -    -    -    -bord
+bord-soli-soli-soli-soli-soli-    -    -    -    -    -    -soli-    -doo2-    -    -    -    -    -    -    -bord
+bord-soli-soli-soli-soli-soli-    -    -    -    -    -    -soli-    -doo1-    -    -    -    -    -    -    -bord
+bord-soli-soli-soli-soli-soli-    -    -    -    -    -    -soli-soli-soli-soli-    -    -    -    -    -    -bord
+bord-soli-soli-soli-soli-soli-fire-fire-fire-fire-fire-fire-soli-soli-soli-soli-fire-fire-fire-fire-fire-fire-bord
+bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord

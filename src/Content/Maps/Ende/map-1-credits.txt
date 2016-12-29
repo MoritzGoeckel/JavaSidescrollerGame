@@ -1,0 +1,17 @@
+The End
+Moritz
+Textures/Farbig/
+bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord
+bord-stei-stei-stei-stei-stei-stei-stei-stei-stei-stei-    -    -    -    -    -    -    -    -    -    -    -bord
+bord-    -    -stei-    -stei-stei-stei-stei-    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-    -    -    -    -    -    -stei-    -    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-    -    -    -    -    -    -tCR0-    -    -    -    -    -tCR2-    -    -    -    -    -tCR4-    -    -bord
+bord-    -spaw-    -    -    -    -    -    -    -tCR1-    -    -    -    -    -tCR3-    -    -    -    -    -bord
+bord-soli-soli-soli-soli-soli-    -soli-soli-soli-soli-soli-    -soli-soli-soli-soli-soli-    -stei-stei-stei-bord
+bord-soli-soli-soli-soli-soli-    -soli-soli-soli-soli-soli-    -soli-soli-soli-soli-soli-    -stei-stei-stei-bord
+bord-soli-soli-soli-soli-soli-    -soli-soli-soli-soli-soli-    -soli-soli-soli-soli-soli-    -stei-stei-stei-bord
+bord-soli-soli-soli-soli-soli-    -soli-soli-soli-soli-soli-    -soli-soli-soli-soli-soli-    -stei-stei-stei-bord
+bord-soli-soli-soli-soli-soli-fire-soli-soli-soli-soli-soli-fire-soli-soli-soli-soli-soli-fire-stei-stei-stei-bord
+bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord

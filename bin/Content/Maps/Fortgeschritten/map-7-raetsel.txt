@@ -1,0 +1,28 @@
+Rätsel 3
+Sterk
+Textures/SW/
+bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord
+bord-    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-    -    -    -spaw-    -    -    -    -    -    -    -    -    -    -    -    -    -    -dyna-butt-    -    -    -    -bord
+bord-soli-soli-soli-soli-soli-soli-soli-soli-soli-soli-soli-soli-soli-soli-soli-    -soli-soli-soli-soli-soli-soli-    -    -bord
+bord-    -    -    -    -    -    -    -    -    -    -    -    -    -    -soli-bu_b-soli-    -    -    -    -    -    -    -bord
+bord-    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-    -    -    -    -soli-soli-soli-soli-    -    -    -    -    -    -    -    -    -dyna-    -    -    -dyng-    -dyna-bord
+bord-    -    -    -    -    -    -    -soli-    -    -    -soli-soli-soli-soli-bu_b-soli-soli-soli-    -soli-soli-soli-soli-bord
+bord-    -    -dyna-    -    -    -butt-soli-fire-    -    -soli-    -    -    -    -butt-    -soli-bu_b-soli-    -    -    -bord
+bord-soli-brea-soli-soli-soli-soli-soli-soli-soli-fire-fire-soli-    -    -    -    -puUp-    -soli-soli-soli-    -    -    -bord
+bord-    -    -soli-    -    -    -    -    -soli-soli-soli-soli-    -    -    -    -puUp-puUp-puUp-    -    -    -    -    -bord
+bord-    -    -soli-    -    -    -    -    -    -    -    -    -    -    -    -    -puUp-puUp-puUp-    -    -    -    -    -bord
+bord-    -    -soli-    -    -soli-soli-    -    -    -    -    -    -    -    -    -brea-puUp-puUp-puUp-    -    -    -    -bord
+bord-    -    -soli-    -    -soli-soli-soli-    -    -    -    -    -    -    -    -    -    -puUp-puUp-    -    -    -    -bord
+bord-    -    -    -    -    -soli-fire-soli-    -    -    -    -dyna-    -    -soli-    -    -    -puUp-    -    -    -    -bord
+bord-soli-soli-brea-soli-soli-soli-soli-soli-soli-brea-    -brea-brea-    -soli-soli-fire-fire-fire-soli-soli-soli-    -    -bord
+bord-    -soli-fire-soli-    -    -    -    -soli-    -    -    -    -fire-    -soli-soli-soli-soli-soli-    -    -    -    -bord
+bord-    -soli-soli-soli-    -dyna-    -puUp-soli-fire-fire-fire-fire-bu_b-fire-soli-butt-    -    -    -    -    -    -    -bord
+bord-    -    -    -    -    -soli-soli-puUp-soli-soli-soli-soli-soli-soli-soli-soli-puUp-    -    -    -    -    -soli-brea-bord
+bord-    -    -doo2-    -    -    -    -puUp-    -    -    -    -    -    -    -    -puUp-    -brea-soli-soli-    -soli-brea-bord
+bord-butt-    -doo1-    -    -    -    -puUp-    -    -    -    -    -    -    -    -brea-fire-fire-soli-brea-    -dyng-butt-bord
+bord-soli-soli-soli-soli-bu_b-soli-soli-soli-soli-soli-soli-soli-soli-soli-soli-soli-soli-soli-soli-soli-soli-soli-brea-soli-bord
+bord-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-bord
+bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord

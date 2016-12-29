@@ -1,0 +1,4 @@
+Name: Fortgeschritten
+Autor: Anonym
+
+LevelFile: /home/moritz/Arbeitsfläche/Projekte/Game_2/src/Game/testmap.txt

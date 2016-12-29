@@ -1,0 +1,16 @@
+Name: Fortgeschritten
+Autor: Anonm
+
+LevelFile: /home/moritz/Arbeitsfläche/Projekte/Game_2/src/Game/Fortgeschritten/map-1-rätsel.txt
+LevelFile: /home/moritz/Arbeitsfläche/Projekte/Game_2/src/Game/Fortgeschritten/map-2-klein.txt
+LevelFile: /home/moritz/Arbeitsfläche/Projekte/Game_2/src/Game/Fortgeschritten/map-3-break.txt
+LevelFile: /home/moritz/Arbeitsfläche/Projekte/Game_2/src/Game/Fortgeschritten/map-4-dreher_gross.txt
+LevelFile: /home/moritz/Arbeitsfläche/Projekte/Game_2/src/Game/Fortgeschritten/map-5-sprung.txt
+LevelFile: /home/moritz/Arbeitsfläche/Projekte/Game_2/src/Game/Fortgeschritten/map-6-rätsel.txt
+LevelFile: /home/moritz/Arbeitsfläche/Projekte/Game_2/src/Game/Fortgeschritten/map-7-rätsel.txt
+LevelFile: /home/moritz/Arbeitsfläche/Projekte/Game_2/src/Game/Fortgeschritten/map-8-stairs.txt
+LevelFile: /home/moritz/Arbeitsfläche/Projekte/Game_2/src/Game/Fortgeschritten/map-9-kompliziert.txt
+LevelFile: /home/moritz/Arbeitsfläche/Projekte/Game_2/src/Game/Fortgeschritten/map-10-schornstein.txt
+LevelFile: /home/moritz/Arbeitsfläche/Projekte/Game_2/src/Game/Fortgeschritten/map-11-hanna.txt
+LevelFile: /home/moritz/Arbeitsfläche/Projekte/Game_2/src/Game/Fortgeschritten/map-12-invi.txt
+LevelFile: /home/moritz/Arbeitsfläche/Projekte/Game_2/src/Game/Fortgeschritten/map-13-lang.txt

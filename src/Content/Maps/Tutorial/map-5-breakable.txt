@@ -1,0 +1,25 @@
+Breakable - Tutorial
+Moritz, David
+Textures/Farbig/
+bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord
+bord-    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-    -    -spaw-    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-soli-soli-soli-soli-soli-brea-brea-brea-brea-brea-brea-brea-    -brea-    -    -brea-    -    -    -    -    -    -    -bord
+bord-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-    -    -    -    -    -    -    -bord
+bord-soli-soli-soli-soli-soli-soli-soli-soli-soli-soli-soli-soli-soli-soli-soli-soli-soli-    -    -    -    -    -    -    -bord
+bord-    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-    -    -    -    -    -    -    -    -doo2-    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-    -    -    -    -    -    -    -    -doo1-    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-    -    -    -    -    -    -    -    -soli-soli-soli-soli-soli-    -brea-    -brea-soli-    -    -    -    -    -    -bord
+bord-    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -    -bord
+bord-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-fire-bord
+bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord-bord
