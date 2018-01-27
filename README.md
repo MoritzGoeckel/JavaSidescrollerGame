@@ -4,4 +4,4 @@ This is a little sidescroller puzzle game which I created some years ago. The co
 
 # Demo
 
-![alt tag](https://github.com/MoritzGoeckel/JavaSidescrollerGame/blob/master/sidescrollerdemo.gif?raw=true)
+![alt tag](https://github.com/MoritzGoeckel/Sidescroller/blob/master/sidescrollerdemo.gif?raw=true)
